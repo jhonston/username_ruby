@@ -1,0 +1,4 @@
+def suma_cuatro_numeros x,y,z,w
+puts x+y+z+w
+suma_cuatro_numeros 20,30,15,25
+gets()

@@ -1,0 +1,4 @@
+comida=["ceviche","chaufa","pachamanca","caldo"]
+puts"mi plato favorito es: " + comida[3]
+puts"===================="
+gets()
